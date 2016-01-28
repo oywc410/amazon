@@ -1,0 +1,8 @@
+.idea
+test.tmp
+test.tmp2
+*.exe
+*.prof
+*.out
+ec_analytics2.iml
+*.log
