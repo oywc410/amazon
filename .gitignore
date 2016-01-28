@@ -4,5 +4,5 @@ test.tmp2
 *.exe
 *.prof
 *.out
-ec_analytics2.iml
+*.iml
 *.log
