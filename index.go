@@ -36,6 +36,8 @@ func main() {
 	fmt.Println(time.Now().Sub(t1))
 }
 
+
+
 func getAllData(link string, i int) {
 
 
